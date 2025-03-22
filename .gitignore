@@ -1,0 +1,31 @@
+# Environment variables
+.env
+.env.*
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Session data
+.streamlit_sessions/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Docker volumes
+postgres_data/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store

@@ -1,0 +1,32 @@
+# Core dependencies
+streamlit
+pandas
+numpy
+matplotlib
+pillow
+plotly
+
+# Database
+sqlalchemy
+psycopg2-binary
+alembic
+
+# Document processing
+PyPDF2
+python-docx
+docx2txt
+
+# AI and OpenAI integration
+openai
+azure-identity
+azure-core
+tiktoken
+
+# Session management and utilities
+pickle-mixin
+python-dotenv
+requests
+tenacity
+
+# Data visualization
+seaborn
